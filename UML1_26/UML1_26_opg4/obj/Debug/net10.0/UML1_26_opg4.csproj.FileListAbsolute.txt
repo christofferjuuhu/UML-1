@@ -1,0 +1,14 @@
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\bin\Debug\net10.0\UML1_26_opg4.exe
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\bin\Debug\net10.0\UML1_26_opg4.deps.json
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\bin\Debug\net10.0\UML1_26_opg4.runtimeconfig.json
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\bin\Debug\net10.0\UML1_26_opg4.dll
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\bin\Debug\net10.0\UML1_26_opg4.pdb
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\obj\Debug\net10.0\UML1_26_opg4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\obj\Debug\net10.0\UML1_26_opg4.AssemblyInfoInputs.cache
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\obj\Debug\net10.0\UML1_26_opg4.AssemblyInfo.cs
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\obj\Debug\net10.0\UML1_26_opg4.csproj.CoreCompileInputs.cache
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\obj\Debug\net10.0\UML1_26_opg4.dll
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\obj\Debug\net10.0\refint\UML1_26_opg4.dll
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\obj\Debug\net10.0\UML1_26_opg4.pdb
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\obj\Debug\net10.0\UML1_26_opg4.genruntimeconfig.cache
+C:\Zealand\SWC\opgaver\UML1\UML1_26\UML1_26_opg4\obj\Debug\net10.0\ref\UML1_26_opg4.dll

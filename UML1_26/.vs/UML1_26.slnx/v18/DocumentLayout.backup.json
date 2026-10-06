@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg4\\orderrepositorydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|solutionrelative:uml1_26_opg4\\orderrepositorydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|solutionrelative:uml1_26_opg4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg4\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|solutionrelative:uml1_26_opg4\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|solutionrelative:uml1_26_opg4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg4\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|solutionrelative:uml1_26_opg4\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg4\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|solutionrelative:uml1_26_opg4\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg4\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|solutionrelative:uml1_26_opg4\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg4\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A12DEEB-68E7-4885-8C2E-DA82DA64F89B}|UML1_26_opg4\\UML1_26_opg4.csproj|solutionrelative:uml1_26_opg4\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|solutionrelative:uml1_26_opg3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|solutionrelative:uml1_26_opg3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg3\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|solutionrelative:uml1_26_opg3\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg3\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|solutionrelative:uml1_26_opg3\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg3\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|solutionrelative:uml1_26_opg3\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg3\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A049D8-0D51-4E44-907A-F8F5BC42C32E}|UML1_26_opg3\\UML1_26_opg3.csproj|solutionrelative:uml1_26_opg3\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6E8CB4-0864-4862-8709-B9CA31796ECC}|UML1_26_opg2\\UML1_26_opg2.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6E8CB4-0864-4862-8709-B9CA31796ECC}|UML1_26_opg2\\UML1_26_opg2.csproj|solutionrelative:uml1_26_opg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6E8CB4-0864-4862-8709-B9CA31796ECC}|UML1_26_opg2\\UML1_26_opg2.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6E8CB4-0864-4862-8709-B9CA31796ECC}|UML1_26_opg2\\UML1_26_opg2.csproj|solutionrelative:uml1_26_opg2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6E8CB4-0864-4862-8709-B9CA31796ECC}|UML1_26_opg2\\UML1_26_opg2.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6E8CB4-0864-4862-8709-B9CA31796ECC}|UML1_26_opg2\\UML1_26_opg2.csproj|solutionrelative:uml1_26_opg2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9039C4D5-3824-4889-87E4-8FED6DDA7F8D}|UML1_26\\UML1_26.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9039C4D5-3824-4889-87E4-8FED6DDA7F8D}|UML1_26\\UML1_26.csproj|solutionrelative:uml1_26\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9039C4D5-3824-4889-87E4-8FED6DDA7F8D}|UML1_26\\UML1_26.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9039C4D5-3824-4889-87E4-8FED6DDA7F8D}|UML1_26\\UML1_26.csproj|solutionrelative:uml1_26\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6E8CB4-0864-4862-8709-B9CA31796ECC}|UML1_26_opg2\\UML1_26_opg2.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26_opg2\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6E8CB4-0864-4862-8709-B9CA31796ECC}|UML1_26_opg2\\UML1_26_opg2.csproj|solutionrelative:uml1_26_opg2\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9039C4D5-3824-4889-87E4-8FED6DDA7F8D}|UML1_26\\UML1_26.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9039C4D5-3824-4889-87E4-8FED6DDA7F8D}|UML1_26\\UML1_26.csproj|solutionrelative:uml1_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9039C4D5-3824-4889-87E4-8FED6DDA7F8D}|UML1_26\\UML1_26.csproj|c:\\zealand\\swc\\opgaver\\uml1\\uml1_26\\uml1_26\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9039C4D5-3824-4889-87E4-8FED6DDA7F8D}|UML1_26\\UML1_26.csproj|solutionrelative:uml1_26\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepositoryDictionary.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\OrderRepositoryDictionary.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg4\\OrderRepositoryDictionary.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\OrderRepositoryDictionary.cs",
+              "RelativeToolTip": "UML1_26_opg4\\OrderRepositoryDictionary.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:45:15.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg4\\OrderRepository.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\OrderRepository.cs",
+              "RelativeToolTip": "UML1_26_opg4\\OrderRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:38:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Topping.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg4\\Topping.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Topping.cs",
+              "RelativeToolTip": "UML1_26_opg4\\Topping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:37:45.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Pizza.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg4\\Pizza.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Pizza.cs",
+              "RelativeToolTip": "UML1_26_opg4\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:37:34.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\OrderLine.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg4\\OrderLine.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\OrderLine.cs",
+              "RelativeToolTip": "UML1_26_opg4\\OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:37:29.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Order.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg4\\Order.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Order.cs",
+              "RelativeToolTip": "UML1_26_opg4\\Order.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwBgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:37:26.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Customer.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg4\\Customer.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Customer.cs",
+              "RelativeToolTip": "UML1_26_opg4\\Customer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:37:20.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Program.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg4\\Program.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg4\\Program.cs",
+              "RelativeToolTip": "UML1_26_opg4\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:37:11.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\OrderLine.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg3\\OrderLine.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\OrderLine.cs",
+              "RelativeToolTip": "UML1_26_opg3\\OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:11:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Topping.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg3\\Topping.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Topping.cs",
+              "RelativeToolTip": "UML1_26_opg3\\Topping.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:05:49.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Pizza.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg3\\Pizza.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Pizza.cs",
+              "RelativeToolTip": "UML1_26_opg3\\Pizza.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0kAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:05:08.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Order.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg3\\Order.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Order.cs",
+              "RelativeToolTip": "UML1_26_opg3\\Order.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:05:03.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Customer.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg3\\Customer.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Customer.cs",
+              "RelativeToolTip": "UML1_26_opg3\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:04:55.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Program.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg3\\Program.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg3\\Program.cs",
+              "RelativeToolTip": "UML1_26_opg3\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:04:43.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg2\\Pizza.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg2\\Pizza.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg2\\Pizza.cs",
+              "RelativeToolTip": "UML1_26_opg2\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T19:59:48.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg2\\Order.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg2\\Order.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg2\\Order.cs",
+              "RelativeToolTip": "UML1_26_opg2\\Order.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T19:59:44.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg2\\Customer.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg2\\Customer.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg2\\Customer.cs",
+              "RelativeToolTip": "UML1_26_opg2\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T19:59:30.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg2\\Program.cs",
+              "RelativeDocumentMoniker": "UML1_26_opg2\\Program.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26_opg2\\Program.cs",
+              "RelativeToolTip": "UML1_26_opg2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T19:58:37.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26\\Order.cs",
+              "RelativeDocumentMoniker": "UML1_26\\Order.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26\\Order.cs",
+              "RelativeToolTip": "UML1_26\\Order.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T19:43:34.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26\\Pizza.cs",
+              "RelativeDocumentMoniker": "UML1_26\\Pizza.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26\\Pizza.cs",
+              "RelativeToolTip": "UML1_26\\Pizza.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T19:26:27.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26\\Customer.cs",
+              "RelativeDocumentMoniker": "UML1_26\\Customer.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26\\Customer.cs",
+              "RelativeToolTip": "UML1_26\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T19:26:14.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26\\Program.cs",
+              "RelativeDocumentMoniker": "UML1_26\\Program.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\UML1_26\\UML1_26\\Program.cs",
+              "RelativeToolTip": "UML1_26\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T19:25:56.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

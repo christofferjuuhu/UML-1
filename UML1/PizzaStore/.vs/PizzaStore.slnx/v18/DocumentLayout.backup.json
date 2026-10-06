@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Zealand\\SWC\\opgaver\\UML1\\PizzaStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4041C5F-F71C-4E87-AA24-E183863159C8}|PizzaStore\\PizzaStore.csproj|c:\\zealand\\swc\\opgaver\\uml1\\pizzastore\\pizzastore\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4041C5F-F71C-4E87-AA24-E183863159C8}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4041C5F-F71C-4E87-AA24-E183863159C8}|PizzaStore\\PizzaStore.csproj|c:\\zealand\\swc\\opgaver\\uml1\\pizzastore\\pizzastore\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4041C5F-F71C-4E87-AA24-E183863159C8}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4041C5F-F71C-4E87-AA24-E183863159C8}|PizzaStore\\PizzaStore.csproj|c:\\zealand\\swc\\opgaver\\uml1\\pizzastore\\pizzastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4041C5F-F71C-4E87-AA24-E183863159C8}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4041C5F-F71C-4E87-AA24-E183863159C8}|PizzaStore\\PizzaStore.csproj|c:\\zealand\\swc\\opgaver\\uml1\\pizzastore\\pizzastore\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4041C5F-F71C-4E87-AA24-E183863159C8}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\PizzaStore\\PizzaStore\\Customer.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Customer.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\PizzaStore\\PizzaStore\\Customer.cs",
+              "RelativeToolTip": "PizzaStore\\Customer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:47:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\PizzaStore\\PizzaStore\\Order.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Order.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\PizzaStore\\PizzaStore\\Order.cs",
+              "RelativeToolTip": "PizzaStore\\Order.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:46:20.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\PizzaStore\\PizzaStore\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Pizza.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\PizzaStore\\PizzaStore\\Pizza.cs",
+              "RelativeToolTip": "PizzaStore\\Pizza.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:42:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zealand\\SWC\\opgaver\\UML1\\PizzaStore\\PizzaStore\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Program.cs",
+              "ToolTip": "C:\\Zealand\\SWC\\opgaver\\UML1\\PizzaStore\\PizzaStore\\Program.cs",
+              "RelativeToolTip": "PizzaStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:36:26.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
